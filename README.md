@@ -1,2 +1,0 @@
-# david
-mi repositorio personal
